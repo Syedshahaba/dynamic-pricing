@@ -133,6 +133,7 @@ Contact
 For any questions or clarifications:
 - 📧 Email: syedshahabaza@gmail.com
 - 📱 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/syed-shahabaz-a-81663a270) 
--mobile number:9620054215
+-  mobile number: 9620054215
+- woring google collab link: https://colab.research.google.com/drive/1fBwKBl6EWDqpnSSU8pjZXXRXqzYHM4Oe?usp=sharing
 
-> This project was developed as part of the Summer Analytics 2025 Hackathon. Powered by Pathway.
+    > This project was developed as part of the Summer Analytics 2025 Hackathon. Powered by Pathway.
